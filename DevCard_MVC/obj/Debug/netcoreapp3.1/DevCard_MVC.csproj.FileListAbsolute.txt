@@ -8,7 +8,6 @@ C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\net
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.pdb
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.dll
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\DevCard_MVC.Views.pdb
-C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csprojAssemblyReference.cache
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfoInputs.cache
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.AssemblyInfo.cs
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.CoreCompileInputs.cache
@@ -109,3 +108,8 @@ C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\net
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Articles\_Articles.cshtml.g.cs
+C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csprojAssemblyReference.cache
+C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\Shaghayegh\source\repos\DeletedFolder\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Header.cshtml.g.cs

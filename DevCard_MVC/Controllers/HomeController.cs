@@ -1,6 +1,7 @@
 ﻿using DevCard_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using System;
 using System.Diagnostics;
 
 
@@ -15,13 +16,21 @@ namespace DevCard_MVC.Controllers
             _logger = logger;
         }
 
-
+        [HttpGet]
         public IActionResult Contact()
         {
-            return View();
+            var model = new Contact();
+            return View(model);
+        }
+        [HttpPost]
+        public JsonResult Contact(Contact form)
+        {
+            Console.WriteLine(form);
+            return Json(Ok());
         }
         public IActionResult Index()
         {
+          
             return View();
         }
 
